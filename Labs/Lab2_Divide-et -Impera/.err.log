@@ -1,0 +1,6 @@
+
+Compiling java/2...
+error: file not found: src/Main.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+========================================
